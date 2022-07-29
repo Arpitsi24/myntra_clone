@@ -1,0 +1,71 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Whitney,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+header{
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.10);
+    height: 80px;
+    background: #fff ;
+    top: 0;
+    position: fixed;
+}
+.left img{
+    height: 50px;
+    width: 50px;
+}
+.container{
+    padding: 0vw 4vw;
+}
+.seccont{
+    padding: 0vw 1.35vw;
+}
+nav{
+    font-size: 14px;
+    padding-top: 15px;
+}
+nav ul li{
+    list-style: none;
+    padding: 0 12px;
+}
+.section1{
+width: 96vw;
+}
+.sectionimg{
+    width: 24vw;
+}
+.section7img{
+    width: 13.714vw;
+}
+.section6img{
+    width: 16vw;
+}
+.section2img{
+    width: 48vw;
+}
+.searchBar{
+    width: 30vw;
+    border: none;
+    background-color: rgba(0,0,0,0.05);
+    padding: 9.9px 5px;
+}
+.searchicon{
+    background-color: rgba(0,0,0,0.05);
+    padding: 5px 10px;
+    width: 25px;
+    height: 25px;
+}
+.marginx-2{
+    margin-left: 25px;
+}
+.iconsize{
+    width: 25px;
+    height: 25px;
+}
+.footerpad{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
